@@ -1,4 +1,12 @@
 {
+  "docs":[
+    {
+      "id":1,
+      "section":"Home",
+      "body":lorem
+    }
+  ]
+  
   "posts": [
     {
       "id": 1,
