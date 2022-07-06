@@ -2,8 +2,18 @@
   "docs":[
     {
       "id":1,
-      "section":"Home",
+      "section":"About",
       "body":"lorem"
+    },
+     {
+      "id":2,
+      "section":"Dependencies",
+      "body":"lorem"
+    },
+     {
+      "id":3,
+      "section":"Install",
+      "body": "loremWords": { "minLength": 5, "maxLength": 20 }
     }
   ],
   
