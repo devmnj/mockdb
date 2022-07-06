@@ -13,7 +13,7 @@
      {
       "id":3,
       "section":"Install",
-      "body": "loremWords": { "minLength": 5, "maxLength": 20 }
+      "body": "loremWords" 
     }
   ],
   
