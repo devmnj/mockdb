@@ -3,8 +3,7 @@
     {
       "id":1,
       "section":"About",
-      "body":" ## What is SvelteKit  Building an app with all the modern best practices is fiendishly complicated. Those practices include build optimizations
-      "
+      "body":" ## What is SvelteKit  Building an app with all the modern best practices is fiendishly complicated. Those practices include build optimizations."
     },
      {
       "id":2,
