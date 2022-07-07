@@ -3,18 +3,7 @@
     {
       "id":1,
       "section":"About",
-      "body":"## What is SvelteKit 
-      Building an app with all the modern best practices is fiendishly complicated. Those practices include build optimizations, 
-      so that you load only the minimal required *code*; offline support; *prefetching pages* before the user initiates navigation; 
-      and *configurable rendering* that allows you to generate *HTML* on the server or in the browser at **runtime** or at **build-time**.
-      SvelteKit does all the boring stuff for you so that you can get on with the creative part.
-      ## Getting started
-      he first command will scaffold a new project in the my-app directory asking you if you''d like to set up some basic tooling such as TypeScript
-      ### Editor setup
-      We recommend using the folowing 
-      * Visual Studio Code (aka VS Code) with the Svelte extension 
-      * Atom
-      * WebStorm
+      "body":" ## What is SvelteKit  Building an app with all the modern best practices is fiendishly complicated. Those practices include build optimizations, so that you load only the minimal required *code* offline support *prefetching pages* before the user initiates navigation      and *configurable rendering* that allows you to generate *HTML* on the server or in the browser at *runtime** or at *build-time*.      SvelteKit does all the boring stuff for you so that you can get on with the creative part.## Getting startedhe first command will scaffold a new project in the my-app directory asking you if you''d like to set up some basic tooling such as TypeScript ### Editor setup We recommend using the folowing  * Visual Studio Code (aka VS Code) with the Svelte extension * Atom  * WebStorm
       "
     },
      {
